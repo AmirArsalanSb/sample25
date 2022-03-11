@@ -1,0 +1,15 @@
+C:\Users\amirarsalan\Desktop\sample25\bin\Debug\net6.0\sample25.exe
+C:\Users\amirarsalan\Desktop\sample25\bin\Debug\net6.0\sample25.deps.json
+C:\Users\amirarsalan\Desktop\sample25\bin\Debug\net6.0\sample25.runtimeconfig.json
+C:\Users\amirarsalan\Desktop\sample25\bin\Debug\net6.0\sample25.dll
+C:\Users\amirarsalan\Desktop\sample25\bin\Debug\net6.0\sample25.pdb
+C:\Users\amirarsalan\Desktop\sample25\obj\Debug\net6.0\sample25.csproj.AssemblyReference.cache
+C:\Users\amirarsalan\Desktop\sample25\obj\Debug\net6.0\sample25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirarsalan\Desktop\sample25\obj\Debug\net6.0\sample25.AssemblyInfoInputs.cache
+C:\Users\amirarsalan\Desktop\sample25\obj\Debug\net6.0\sample25.AssemblyInfo.cs
+C:\Users\amirarsalan\Desktop\sample25\obj\Debug\net6.0\sample25.csproj.CoreCompileInputs.cache
+C:\Users\amirarsalan\Desktop\sample25\obj\Debug\net6.0\sample25.dll
+C:\Users\amirarsalan\Desktop\sample25\obj\Debug\net6.0\refint\sample25.dll
+C:\Users\amirarsalan\Desktop\sample25\obj\Debug\net6.0\sample25.pdb
+C:\Users\amirarsalan\Desktop\sample25\obj\Debug\net6.0\sample25.genruntimeconfig.cache
+C:\Users\amirarsalan\Desktop\sample25\obj\Debug\net6.0\ref\sample25.dll
